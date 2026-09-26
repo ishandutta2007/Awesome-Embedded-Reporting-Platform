@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Reporting-Platform?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Reporting-Platform?style=flat-square" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Reporting-Platform?style=flat-square" alt="GitHub Forks" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Embedded-Reporting-Platform?style=flat-square" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,30 +54,30 @@ Below is a curated comparison of leading commercial embedded reporting platforms
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-High-quality open-source reporting engines, document generators, and self-hosted report servers, sorted by **GitHub Stars (Descending)**:
+High-quality open-source reporting engines, document generators, and self-hosted report servers, sorted by **GitHub_Stars (Descending)**:
 
-- [![GitHub stars](https://img.shields.io/github/stars/carboneio/carbone?style=social&color=white)](https://github.com/carboneio/carbone/stargazers) **[Carbone](https://github.com/carboneio/carbone)** ⚡  
+- [![GitHub_Stars](https://img.shields.io/github/stars/carboneio/carbone?style=social&color=white)](https://github.com/carboneio/carbone/stargazers) **[Carbone](https://github.com/carboneio/carbone)** ⚡  
   Fast template-based document & report generator for Node.js using OpenDocument/Office files (PDF, DOCX, XLSX, PPTX).
 
-- [![GitHub stars](https://img.shields.io/github/stars/ariacom/seal-report?style=social&color=white)](https://github.com/ariacom/seal-report/stargazers) **[Seal Report](https://github.com/ariacom/seal-report)** 🦭  
+- [![GitHub_Stars](https://img.shields.io/github/stars/ariacom/seal-report?style=social&color=white)](https://github.com/ariacom/seal-report/stargazers) **[Seal Report](https://github.com/ariacom/seal-report)** 🦭  
   Complete open-source (.NET, MIT) reporting framework offering dynamic SQL sources, pivot tables, HTML5 charts, task scheduler, and web server for embedding.
 
-- [![GitHub stars](https://img.shields.io/github/stars/Jaspersoft/jasperreports?style=social&color=white)](https://github.com/Jaspersoft/jasperreports/stargazers) **[JasperReports Library](https://github.com/Jaspersoft/jasperreports)** ☕  
+- [![GitHub_Stars](https://img.shields.io/github/stars/Jaspersoft/jasperreports?style=social&color=white)](https://github.com/Jaspersoft/jasperreports/stargazers) **[JasperReports Library](https://github.com/Jaspersoft/jasperreports)** ☕  
   The world's most widely used open-source Java reporting engine—delivers pixel-perfect documents, rich data sources, and export formats (PDF, Excel, Word, HTML).
 
-- [![GitHub stars](https://img.shields.io/github/stars/jsreport/jsreport?style=social&color=white)](https://github.com/jsreport/jsreport/stargazers) **[jsreport](https://github.com/jsreport/jsreport)** 📜  
+- [![GitHub_Stars](https://img.shields.io/github/stars/jsreport/jsreport?style=social&color=white)](https://github.com/jsreport/jsreport/stargazers) **[jsreport](https://github.com/jsreport/jsreport)** 📜  
   Open-source JavaScript reporting platform allowing report generation via HTML/CSS templates, PDF rendering, Excel export, and REST API embedding.
 
-- [![GitHub stars](https://img.shields.io/github/stars/guigrpa/docx-templates?style=social&color=white)](https://github.com/guigrpa/docx-templates/stargazers) **[docx-templates](https://github.com/guigrpa/docx-templates)** 📄  
+- [![GitHub_Stars](https://img.shields.io/github/stars/guigrpa/docx-templates?style=social&color=white)](https://github.com/guigrpa/docx-templates/stargazers) **[docx-templates](https://github.com/guigrpa/docx-templates)** 📄  
   Template-based Word (DOCX) document generation engine for Node.js and browser environments with inline JS code support.
 
-- [![GitHub stars](https://img.shields.io/github/stars/helicalinsight/helicalinsight?style=social&color=white)](https://github.com/helicalinsight/helicalinsight/stargazers) **[Helical Insight](https://github.com/helicalinsight/helicalinsight)** 💡  
+- [![GitHub_Stars](https://img.shields.io/github/stars/helicalinsight/helicalinsight?style=social&color=white)](https://github.com/helicalinsight/helicalinsight/stargazers) **[Helical Insight](https://github.com/helicalinsight/helicalinsight)** 💡  
   Open-source BI framework featuring pixel-perfect paginated reporting, self-service report designer, multi-tenancy, and API embedding.
 
-- [![GitHub stars](https://img.shields.io/github/stars/eclipse-birt/birt?style=social&color=white)](https://github.com/eclipse-birt/birt/stargazers) **[Eclipse BIRT](https://github.com/eclipse-birt/birt)** 🌐  
+- [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-birt/birt?style=social&color=white)](https://github.com/eclipse-birt/birt/stargazers) **[Eclipse BIRT](https://github.com/eclipse-birt/birt)** 🌐  
   Classic open-source Eclipse reporting & data visualization project providing report designers and runtime engines for Java applications.
 
-- [![GitHub stars](https://img.shields.io/github/stars/apache/poi?style=social&color=white)](https://github.com/apache/poi/stargazers) **[Apache POI](https://github.com/apache/poi)** 📊  
+- [![GitHub_Stars](https://img.shields.io/github/stars/apache/poi?style=social&color=white)](https://github.com/apache/poi/stargazers) **[Apache POI](https://github.com/apache/poi)** 📊  
   Master Java API library used extensively alongside open-source report engines to generate and manipulate MS Excel and Office documents.
 
 ---
@@ -106,7 +106,7 @@ If you'd like to support the maintenance of awesome open-source lists, feel free
 
 1. Fork the repo. 🍴
 2. Add/edit entries in `README.md` following the standard table or list format. ✏️
-3. Include relevant pricing, free trial limits, or repository star badges. 🏷️
+3. Include relevant pricing, free trial limits, or repository Stars_Badges. 🏷️
 4. Submit a Pull Request with a short explanation. 🚀
 
 ---
